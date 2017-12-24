@@ -11,3 +11,4 @@ test conflict4
 test commit 5
 
 test git commit 6
+test git commit  with comment
