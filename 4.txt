@@ -14,3 +14,5 @@ test git commit 6
 test git commit  with comment
 
 roll beck commit
+
+test conflict5
