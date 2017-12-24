@@ -1,5 +1,9 @@
 4's commit
 
 test conflict
+<<<<<<< HEAD
 
 commit 3
+=======
+test conflict2
+>>>>>>> 4288bbb5b4443587fc52704b39da08d980fcd1d1
