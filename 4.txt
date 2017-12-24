@@ -9,3 +9,5 @@ test conflict3
 test conflict4
 
 test commit 5
+
+test git commit 6
