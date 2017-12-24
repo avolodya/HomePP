@@ -7,3 +7,5 @@ test conflict2
 test conflict3
 
 test conflict4
+
+test commit 5
